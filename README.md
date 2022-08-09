@@ -1,3 +1,5 @@
 # TWRP_Mycell_i11_pro
 
-test
+Device Name: mycell
+Model Name: 111_Pro
+Software version: Android 6.0 ( Marshmallow )
